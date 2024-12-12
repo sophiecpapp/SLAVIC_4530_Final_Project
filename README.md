@@ -1,4 +1,4 @@
-Hello! This repository hosts the data that I used for my final project for Slavic 4510: Hacking Slavic Literature at The Ohio State University during the autumn 2024 semester. I collected this data from the tables of contents of 22 issues of the post-Soviet feminist literary journal Вы и мы: Диалог женщин.
+Hello! This repository hosts the data that I used for my final project for Slavic 4510: Hacking Slavic Literature at The Ohio State University during the autumn 2024 semester. I collected this data from the tables of contents of 22 issues of the post-Soviet feminist literary journal Вы и мы: Диалог женщин. This data, originally in separate tabs in a spreadsheet, has been separated into and uploaded as .tsv files for ease of access.
 - "Raw data" includes all of the data exactly as I found it.
 - "Cleaned data" includes all of the data, trimmed and consolidated into a spreadsheet that provides a base for further analysis.
 - "Bimodal issue/author" includes the names of each article's author(s) next to the issue they appeared in.
