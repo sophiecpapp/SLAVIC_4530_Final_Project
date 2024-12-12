@@ -1,0 +1,1 @@
+Hello! This repository hosts the data that I used for my final project for Slavic 4510: Hacking Slavic Literature at The Ohio State University during the autumn 2024 semester. Here you will find all of the data I collected in raw, cleaned, and trimmed forms.
