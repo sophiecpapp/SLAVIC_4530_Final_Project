@@ -7,3 +7,4 @@ Hello! This repository hosts the data that I used for my final project for Slavi
 - "Distinct authors per issue" contains the amount of distinct authors that appeared in each issue.
 - "Subcategories" contains the amount of articles in a subcategory in each issue.
 - "Author name appearances" contains the amount of times each author appeared in any issue.
+- All files whose names start with "Fig" are graphs I made.
